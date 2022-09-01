@@ -1,4 +1,8 @@
+
 # willd_lol-project portfolio
+
+https://user-images.githubusercontent.com/104897960/187845249-ff9d7211-dc37-4151-a763-072f67315ffe.mp4
+
 
 <img src="https://user-images.githubusercontent.com/104897960/187726284-b625402d-45f3-4c57-83e1-c6ccdfdd82ac.jpeg">
 
@@ -15,3 +19,7 @@
 <img src="https://user-images.githubusercontent.com/104897960/187726894-81072517-918e-4e38-890a-9ead79e6fbdd.jpeg">
 
 <img src="https://user-images.githubusercontent.com/104897960/187726973-265cc151-7922-4fda-acdb-666e023d9242.jpeg">
+
+
+
+
